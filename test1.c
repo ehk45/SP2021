@@ -1,4 +1,2 @@
-int b =5;
-int c=2;
-vbjudv
-dvbjudv
+int b =4;
+wre
